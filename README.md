@@ -18,3 +18,8 @@ Algorithm and Problem design:
 •	New Intensity = floor(CDF[original intensity] * 255)
 •	In the image apply the new intensity values.
 •	Adjust new image to range between 0 to 255.
+
+![Input Image 1][https://github.com/ShashwatAgarwal-08/Histogram-Equalization/blob/main/Picture1.jpg?raw=true]
+![Output Image 1][https://github.com/ShashwatAgarwal-08/Histogram-Equalization/blob/main/Picture2.png?raw=true]
+![Input Image 2][https://github.com/ShashwatAgarwal-08/Histogram-Equalization/blob/main/Picture3.png?raw=true]
+![Output Image 2][https://github.com/ShashwatAgarwal-08/Histogram-Equalization/blob/main/Picture4.jpg?raw=true]
